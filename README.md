@@ -1,7 +1,3 @@
-# 💫 About Me:
- ¡Hola! Soy un joven programador que ha estado explorando el mundo del hacking desde los 13 años. Ahora, a los 18, estoy interesado en expandir mis habilidades hacia la programación, con bases sólidas en HTML y CSS.  Agradeceré cualquier corrección o ayuda que pueda recibir , Me encanta aprender rápido y enfrentar nuevos desafíos.   
-
-
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@CodeLiveH1) 
 
